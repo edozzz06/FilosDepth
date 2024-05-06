@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1714831583 source:c:\edoardo\c++\filos depths\progetto info\src\combattimento.cpp
+	"Combattimento.h"
+
+1714831658 c:\edoardo\c++\filos depths\progetto info\include\combattimento.h
+	<string>
+	"Personaggio.h"
+
+1714895739 c:\edoardo\c++\filos depths\progetto info\include\personaggio.h
+	<string>
+	"Mossa.h"
+
+1714832871 c:\edoardo\c++\filos depths\progetto info\include\mossa.h
+	<string>
+
+1714831441 source:c:\edoardo\c++\filos depths\progetto info\src\filosofo.cpp
+	"Filosofo.h"
+
+1714831546 c:\edoardo\c++\filos depths\progetto info\include\filosofo.h
+	<Personaggio.h>
+
+1714830967 source:c:\edoardo\c++\filos depths\progetto info\src\multigiocatore.cpp
+	"Multigiocatore.h"
+
+1714830967 c:\edoardo\c++\filos depths\progetto info\include\multigiocatore.h
+
+1715017139 source:c:\edoardo\c++\filos depths\progetto info\main.cpp
+	<iostream>
+	<vector>
+	"Personaggio.h"
+	"Player.h"
+	"Filosofo.h"
+	"Mossa.h"
+	"Attiva.h"
+	"Combattimento.h"
+	"Player.h"
+	"Multigiocatore.h"
+	"GiocatoreSingolo.h"
+	<fstream>
+
+1714831547 c:\edoardo\c++\filos depths\progetto info\include\player.h
+	<string>
+	"Personaggio.h"
+
+1714832941 c:\edoardo\c++\filos depths\progetto info\include\attiva.h
+	<string>
+	"Mossa.h"
+	<iostream>
+	<cmath>
+	<math.h>
+
+1715016984 c:\edoardo\c++\filos depths\progetto info\include\giocatoresingolo.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	"Mossa.h"
+	"Personaggio.h"
+	"Filosofo.h"
+	"AlberoFilosofie.h"
+	"Player.h"
+
+1715017470 c:\edoardo\c++\filos depths\progetto info\include\alberofilosofie.h
+	<string>
+	<vector>
+	"Mossa.h"
+	"Attiva.h"
+
+1714895829 source:c:\edoardo\c++\filos depths\progetto info\src\mossa.cpp
+	"Mossa.h"
+
+1714895764 source:c:\edoardo\c++\filos depths\progetto info\src\personaggio.cpp
+	"Personaggio.h"
+	"Mossa.h"
+	<iostream>
+
+1714831263 source:c:\edoardo\c++\filos depths\progetto info\src\player.cpp
+	"Player.h"
+
+1714831780 source:c:\edoardo\c++\filos depths\progetto info\src\attiva.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+	"Attiva.h"
+	"Mossa.h"
+
+1715014797 source:c:\edoardo\c++\filos depths\progetto info\src\alberofilosofie.cpp
+	"AlberoFilosofie.h"
+	<iostream>
+	<string>
+	<windows.h>
+
+1715016984 source:c:\edoardo\c++\filos depths\progetto info\src\giocatoresingolo.cpp
+	"GiocatoreSingolo.h"
+	<windows.h>
+	<vector>
+
